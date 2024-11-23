@@ -19,3 +19,4 @@
 
 
 <a href="https://Instagram.com/in/victor-makesbasketballedits?"><img src="https://img.shields.io/badge/-Instagram-d62976?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+![Screenshot 2024-11-23 082754](https://github.com/user-attachments/assets/ef054b64-2928-40eb-84ed-adfdfccda729)
